@@ -2,15 +2,15 @@
 #, elixir-autogen, elixir-format
 msgid "%{count} token"
 msgid_plural "%{count} tokens"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{count}トークン"
+msgstr[1] "%{count}トークン"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:29
 #, elixir-autogen, elixir-format
 msgid "%{count} transaction"
 msgid_plural "%{count} transactions"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{count}トランザクション"
+msgstr[1] "%{count}トランザクション"
 
 #: lib/block_scout_web/templates/common_components/_minimal_proxy_pattern.html.eex:9
 #, elixir-autogen, elixir-format
@@ -25,48 +25,48 @@ msgstr ""
 #: lib/block_scout_web/templates/address/_metatags.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "%{address} - %{subnetwork} Explorer"
-msgstr ""
+msgstr "%{address} - %{subnetwork}エクスプローラー"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:12
 #, elixir-autogen, elixir-format
 msgid "%{block_type} Details"
-msgstr ""
+msgstr "%{block_type}詳細"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "%{block_type} Height"
-msgstr ""
+msgstr "%{block_type}高さ"
 
 #: lib/block_scout_web/templates/block/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "%{block_type}s"
-msgstr ""
+msgstr "%{block_type}s"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:85
 #, elixir-autogen, elixir-format
 msgid "%{count} Transaction"
-msgstr ""
+msgstr "%{count}トランザクション"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:87
 #: lib/block_scout_web/templates/chain/_block.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "%{count} Transactions"
-msgstr ""
+msgstr "%{count}トランザクション"
 
 #: lib/block_scout_web/templates/transaction/_actions.html.eex:101
 #, elixir-autogen, elixir-format
 msgid "%{qty} of <span class=\"text-muted\">Token ID [%{link_to_id}]</span>"
-msgstr ""
+msgstr "<span class=\"text-muted\">Token ID [%{link_to_id}]</span>の%{Qty}"
 
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "%{subnetwork} %{network} Explorer"
-msgstr ""
+msgstr "%{subnetwork} %{network} Explorer"
 
 #: lib/block_scout_web/templates/layout/_default_title.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "%{subnetwork} Explorer - BlockScout"
-msgstr ""
+msgstr "%{subnetwork} Explorer - BlockScout"
 
 #: lib/block_scout_web/views/transaction_view.ex:369
 #, elixir-autogen, elixir-format
@@ -79,7 +79,7 @@ msgstr ""
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:104
 #, elixir-autogen, elixir-format
 msgid "(query)"
-msgstr ""
+msgstr "（クエリ）"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_library_first.html.eex:4
 #, elixir-autogen, elixir-format
@@ -145,7 +145,7 @@ msgstr ""
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "ABI"
-msgstr ""
+msgstr "ABI"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_constructor_args.html.eex:3
 #, elixir-autogen, elixir-format
@@ -155,17 +155,17 @@ msgstr ""
 #: lib/block_scout_web/templates/api_docs/index.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "API Documentation"
-msgstr ""
+msgstr "APIドキュメント"
 
 #: lib/block_scout_web/templates/api_docs/_metatags.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "API endpoints for the %{subnetwork}"
-msgstr ""
+msgstr "%{subnetwork}のAPIエンドポイント"
 
 #: lib/block_scout_web/templates/api_docs/_metatags.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "API for the %{subnetwork} - BlockScout"
-msgstr ""
+msgstr "%{subnetwork} - blockscoutのAPI"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:7
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:13
@@ -173,82 +173,82 @@ msgstr ""
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:29
 #, elixir-autogen, elixir-format
 msgid "API key"
-msgstr ""
+msgstr "APIキー"
 
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:7
 #: lib/block_scout_web/templates/account/common/_nav.html.eex:16
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "API keys"
-msgstr ""
+msgstr "APIキー"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:106
 #, elixir-autogen, elixir-format
 msgid "APIs"
-msgstr ""
+msgstr "APIs"
 
 #: lib/block_scout_web/templates/account/tag_address/index.html.eex:24
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:24
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:69
 #, elixir-autogen, elixir-format
 msgid "Action"
-msgstr ""
+msgstr "アクション"
 
 #: lib/block_scout_web/templates/account/watchlist/show.html.eex:25
 #, elixir-autogen, elixir-format
 msgid "Actions"
-msgstr ""
+msgstr "行動"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:7
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:8
 #: lib/block_scout_web/templates/layout/_add_chain_to_mm.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:44
 #, elixir-autogen, elixir-format
 msgid "Add API key"
-msgstr ""
+msgstr "APIキーを追加します"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:86
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:76
 #, elixir-autogen, elixir-format
 msgid "Add Contract Libraries"
-msgstr ""
+msgstr "契約ライブラリを追加します"
 
 #: lib/block_scout_web/templates/account/custom_abi/index.html.eex:44
 #, elixir-autogen, elixir-format
 msgid "Add Custom ABI"
-msgstr ""
+msgstr "カスタムABIを追加します"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:97
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:87
 #, elixir-autogen, elixir-format
 msgid "Add Library"
-msgstr ""
+msgstr "ライブラリを追加します"
 
 #: lib/block_scout_web/templates/account/watchlist/show.html.eex:38
 #, elixir-autogen, elixir-format
 msgid "Add address"
-msgstr ""
+msgstr "アドレスを追加します"
 
 #: lib/block_scout_web/templates/account/tag_address/form.html.eex:7
 #: lib/block_scout_web/templates/account/tag_address/index.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Add address tag"
-msgstr ""
+msgstr "アドレスタグを追加します"
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Add address to the Watch list"
-msgstr ""
+msgstr "ウォッチリストにアドレスを追加します"
 
 #: lib/block_scout_web/templates/account/tag_transaction/form.html.eex:7
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Add transaction tag"
-msgstr ""
+msgstr "トランザクションタグを追加します"
 
 #: lib/block_scout_web/templates/account/tag_address/form.html.eex:11
 #: lib/block_scout_web/templates/account/tag_address/index.html.eex:23
@@ -263,7 +263,7 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:107
 #, elixir-autogen, elixir-format
 msgid "Address"
-msgstr ""
+msgstr "住所"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:263
 #, elixir-autogen, elixir-format
@@ -280,17 +280,17 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:16
 #, elixir-autogen, elixir-format
 msgid "Address Tags"
-msgstr ""
+msgstr "アドレスタグ"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:149
 #, elixir-autogen, elixir-format
 msgid "Address balance in"
-msgstr ""
+msgstr "アドレスバランス"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:51
 #, elixir-autogen, elixir-format
 msgid "Address of the token contract"
-msgstr ""
+msgstr "トークン契約のアドレス"
 
 #: lib/block_scout_web/templates/transaction_state/_state_change.html.eex:7
 #, elixir-autogen, elixir-format
@@ -300,18 +300,18 @@ msgstr ""
 #: lib/block_scout_web/templates/account/public_tags_request/address_field.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "Address*"
-msgstr ""
+msgstr "住所*"
 
 #: lib/block_scout_web/templates/address/index.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Addresses"
-msgstr ""
+msgstr "アドレス"
 
 #: lib/block_scout_web/templates/address_withdrawal/index.html.eex:38
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:35
 #, elixir-autogen, elixir-format
 msgid "Age"
-msgstr ""
+msgstr "年"
 
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:26
 #: lib/block_scout_web/templates/address_token_transfer/index.html.eex:28
@@ -324,7 +324,7 @@ msgstr ""
 #: lib/block_scout_web/views/verified_contracts_view.ex:12
 #, elixir-autogen, elixir-format
 msgid "All"
-msgstr ""
+msgstr "全て"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:13
 #, elixir-autogen, elixir-format
@@ -344,7 +344,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:457
 #, elixir-autogen, elixir-format
 msgid "Amount of"
-msgstr ""
+msgstr "数の"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:236
 #, elixir-autogen, elixir-format
@@ -364,12 +364,12 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:134
 #, elixir-autogen, elixir-format
 msgid "Apps"
-msgstr ""
+msgstr "アプリ"
 
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:21
 #, elixir-autogen, elixir-format
 msgid "Average"
-msgstr ""
+msgstr "平均"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:25
 #, elixir-autogen, elixir-format
@@ -402,7 +402,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/not_found.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Back to home"
-msgstr ""
+msgstr "家に帰る"
 
 #: lib/block_scout_web/templates/account/watchlist/show.html.eex:24
 #: lib/block_scout_web/templates/address/overview.html.eex:150
@@ -410,33 +410,33 @@ msgstr ""
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:57
 #, elixir-autogen, elixir-format
 msgid "Balance"
-msgstr ""
+msgstr "バランス"
 
 #: lib/block_scout_web/templates/transaction_state/index.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Balance after"
-msgstr ""
+msgstr "その後のバランス"
 
 #: lib/block_scout_web/templates/transaction_state/index.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Balance before"
-msgstr ""
+msgstr "前のバランス"
 
 #: lib/block_scout_web/templates/address_coin_balance/index.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Balances"
-msgstr ""
+msgstr "バランス"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:207
 #, elixir-autogen, elixir-format
 msgid "Base Fee per Gas"
-msgstr ""
+msgstr "ガスあたりの基本料金"
 
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:5
 #: lib/block_scout_web/templates/api_docs/index.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Base URL:"
-msgstr ""
+msgstr "ベースURL："
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:525
 #, elixir-autogen, elixir-format
@@ -450,39 +450,39 @@ msgstr ""
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:29
 #, elixir-autogen, elixir-format
 msgid "Block"
-msgstr ""
+msgstr "ブロック"
 
 #: lib/block_scout_web/templates/block/_link.html.eex:2
 #: lib/block_scout_web/templates/internal_transaction/_tile.html.eex:32
 #: lib/block_scout_web/templates/tokens/transfer/_token_transfer.html.eex:43
 #, elixir-autogen, elixir-format
 msgid "Block #%{number}"
-msgstr ""
+msgstr "ブロック＃%{number}"
 
 #: lib/block_scout_web/templates/block/_metatags.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Block %{block_number} - %{subnetwork} Explorer"
-msgstr ""
+msgstr "Block%{block_number} - %{subnetwork}エクスプローラー"
 
 #: lib/block_scout_web/templates/block_transaction/404.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Block Details"
-msgstr ""
+msgstr "詳細をブロックします"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:53
 #, elixir-autogen, elixir-format
 msgid "Block Height"
-msgstr ""
+msgstr "ブロックの高さ"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:56
 #, elixir-autogen, elixir-format
 msgid "Block Mined, awaiting import..."
-msgstr ""
+msgstr "採掘されたブロック、インポートを待っています..."
 
 #: lib/block_scout_web/views/transaction_view.ex:34
 #, elixir-autogen, elixir-format
 msgid "Block Pending"
-msgstr ""
+msgstr "保留中のブロック"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:158
 #, elixir-autogen, elixir-format
@@ -507,24 +507,24 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "BlockScout provides analytics data, API, and Smart Contract tools for the %{subnetwork}"
-msgstr ""
+msgstr "BlockScoutは、%{subnetwork}の分析データ、API、およびスマートコントラクトツールを提供します"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:29
 #, elixir-autogen, elixir-format
 msgid "Blockchain"
-msgstr ""
+msgstr "ブロックチェーン"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:141
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:34
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:38
 #, elixir-autogen, elixir-format
 msgid "Blocks"
-msgstr ""
+msgstr "ブロック"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "Blocks Indexed"
-msgstr ""
+msgstr "ブロックインデックス付き"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:56
 #: lib/block_scout_web/templates/address/overview.html.eex:275
@@ -532,12 +532,12 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:384
 #, elixir-autogen, elixir-format
 msgid "Blocks Validated"
-msgstr ""
+msgstr "検証されたブロック"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:57
 #, elixir-autogen, elixir-format
 msgid "Blocks With Internal Transactions Indexed"
-msgstr ""
+msgstr "内部トランザクションのインデックス付きブロック"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 #, elixir-autogen, elixir-format
@@ -547,34 +547,34 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction_state/_state_change.html.eex:8
 #, elixir-autogen, elixir-format
 msgid "Burn address"
-msgstr ""
+msgstr "燃焼住所"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:64
 #: lib/block_scout_web/templates/block/overview.html.eex:216
 #, elixir-autogen, elixir-format
 msgid "Burnt Fees"
-msgstr ""
+msgstr "燃焼手数料"
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:65
 #, elixir-autogen, elixir-format
 msgid "CRC Worth"
-msgstr ""
+msgstr "CRCの価値"
 
 #: lib/block_scout_web/templates/common_components/_csv_export_button.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:10
 #: lib/block_scout_web/views/internal_transaction_view.ex:21
 #, elixir-autogen, elixir-format
 msgid "Call"
-msgstr ""
+msgstr "電話"
 
 #: lib/block_scout_web/views/internal_transaction_view.ex:22
 #, elixir-autogen, elixir-format
 msgid "Call Code"
-msgstr ""
+msgstr "コードを呼び出します"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:62
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:120
@@ -587,33 +587,33 @@ msgstr ""
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:54
 #, elixir-autogen, elixir-format
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: lib/block_scout_web/templates/transaction_state/index.html.eex:43
 #, elixir-autogen, elixir-format
 msgid "Change"
-msgstr ""
+msgstr "変化"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:43
 #, elixir-autogen, elixir-format
 msgid "Chat (#blockscout)"
-msgstr ""
+msgstr "チャット（#BlockScout）"
 
 #: lib/block_scout_web/views/block_view.ex:65
 #, elixir-autogen, elixir-format
 msgid "Chore Reward"
-msgstr ""
+msgstr "雑用報酬"
 
 #: lib/block_scout_web/templates/tokens/index.html.eex:38
 #, elixir-autogen, elixir-format
 msgid "Circulating Market Cap"
-msgstr ""
+msgstr "循環時価総額"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:137
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:106
 #, elixir-autogen, elixir-format
 msgid "Clear"
-msgstr ""
+msgstr "クリア"
 
 #: lib/block_scout_web/templates/address/_validator_metadata_modal.html.eex:37
 #: lib/block_scout_web/templates/common_components/_modal_qr_code.html.eex:6
@@ -622,7 +622,7 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:92
 #, elixir-autogen, elixir-format
 msgid "Close"
-msgstr ""
+msgstr "近い"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:66
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:165
@@ -632,59 +632,59 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:377
 #, elixir-autogen, elixir-format
 msgid "Code"
-msgstr ""
+msgstr "コード"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:42
 #: lib/block_scout_web/views/address_view.ex:383
 #, elixir-autogen, elixir-format
 msgid "Coin Balance History"
-msgstr ""
+msgstr "コインバランスの履歴"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "Collapse"
-msgstr ""
+msgstr "崩壊"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Company name"
-msgstr ""
+msgstr "会社名"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:32
 #, elixir-autogen, elixir-format
 msgid "Company website"
-msgstr ""
+msgstr "会社のウェブサイト"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_compiler_field.html.eex:3
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Compiler"
-msgstr ""
+msgstr "コンパイラ"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:143
 #, elixir-autogen, elixir-format
 msgid "Compiler Settings"
-msgstr ""
+msgstr "コンパイラ設定"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:72
 #, elixir-autogen, elixir-format
 msgid "Compiler version"
-msgstr ""
+msgstr "コンパイラバージョン"
 
 #: lib/block_scout_web/views/transaction_view.ex:362
 #, elixir-autogen, elixir-format
 msgid "Confirmed"
-msgstr ""
+msgstr "確認済み"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:127
 #, elixir-autogen, elixir-format
 msgid "Confirmed by "
-msgstr ""
+msgstr "によって確認されました"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:193
 #, elixir-autogen, elixir-format
 msgid "Confirmed within"
-msgstr ""
+msgstr "内で確認されます"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:2
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:6
@@ -695,7 +695,7 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/holder/index.html.eex:16
 #, elixir-autogen, elixir-format
 msgid "Connection Lost"
-msgstr ""
+msgstr "接続切断"
 
 #: lib/block_scout_web/templates/address_coin_balance/index.html.eex:12
 #: lib/block_scout_web/templates/block/index.html.eex:5
@@ -723,23 +723,23 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract/index.html.eex:97
 #, elixir-autogen, elixir-format
 msgid "Constructor Arguments"
-msgstr ""
+msgstr "コンストラクターの引数"
 
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:72
 #, elixir-autogen, elixir-format
 msgid "Constructor args"
-msgstr ""
+msgstr "コンストラクターの引数"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:52
 #: lib/block_scout_web/templates/transaction/overview.html.eex:273
 #, elixir-autogen, elixir-format
 msgid "Contract"
-msgstr ""
+msgstr "契約"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:158
 #, elixir-autogen, elixir-format
 msgid "Contract ABI"
-msgstr ""
+msgstr "契約ABI"
 
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:18
 #: lib/block_scout_web/templates/account/custom_abi/index.html.eex:29
@@ -747,42 +747,42 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:105
 #, elixir-autogen, elixir-format
 msgid "Contract Address"
-msgstr ""
+msgstr "契約アドレス"
 
 #: lib/block_scout_web/templates/transaction/_pending_tile.html.eex:16
 #: lib/block_scout_web/views/address_view.ex:45
 #: lib/block_scout_web/views/address_view.ex:79
 #, elixir-autogen, elixir-format
 msgid "Contract Address Pending"
-msgstr ""
+msgstr "保留中の契約住所"
 
 #: lib/block_scout_web/views/transaction_view.ex:487
 #, elixir-autogen, elixir-format
 msgid "Contract Call"
-msgstr ""
+msgstr "契約コール"
 
 #: lib/block_scout_web/views/transaction_view.ex:484
 #, elixir-autogen, elixir-format
 msgid "Contract Creation"
-msgstr ""
+msgstr "契約作成"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:175
 #: lib/block_scout_web/templates/address_contract/index.html.eex:190
 #, elixir-autogen, elixir-format
 msgid "Contract Creation Code"
-msgstr ""
+msgstr "契約作成コード"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:90
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:80
 #, elixir-autogen, elixir-format
 msgid "Contract Libraries"
-msgstr ""
+msgstr "契約ライブラリ"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:75
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_contract_name_field.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Contract Name"
-msgstr ""
+msgstr "契約名"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:26
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:11
@@ -793,17 +793,17 @@ msgstr ""
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Contract name or address"
-msgstr ""
+msgstr "契約名または住所"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:64
 #, elixir-autogen, elixir-format
 msgid "Contract name:"
-msgstr ""
+msgstr "契約名："
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:107
 #, elixir-autogen, elixir-format
 msgid "Contract source code"
-msgstr ""
+msgstr "契約ソースコード"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:120
 #, elixir-autogen, elixir-format
@@ -813,7 +813,7 @@ msgstr ""
 #: lib/block_scout_web/templates/verified_contracts/_stats.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Contracts"
-msgstr ""
+msgstr "契約"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:181
 #, elixir-autogen, elixir-format
@@ -823,18 +823,18 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:42
 #, elixir-autogen, elixir-format
 msgid "Contribute"
-msgstr ""
+msgstr "助ける"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:160
 #, elixir-autogen, elixir-format
 msgid "Copy ABI"
-msgstr ""
+msgstr "ABIをコピーします"
 
 #: lib/block_scout_web/templates/account/api_key/row.html.eex:6
 #: lib/block_scout_web/templates/account/api_key/row.html.eex:6
 #, elixir-autogen, elixir-format
 msgid "Copy API key"
-msgstr ""
+msgstr "APIキーをコピーします"
 
 #: lib/block_scout_web/templates/account/tag_address/row.html.eex:8
 #: lib/block_scout_web/templates/account/tag_address/row.html.eex:8
@@ -849,35 +849,35 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:44
 #, elixir-autogen, elixir-format
 msgid "Copy Address"
-msgstr ""
+msgstr "アドレスをコピーします"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:145
 #, elixir-autogen, elixir-format
 msgid "Copy Compiler Settings"
-msgstr ""
+msgstr "コンパイラ設定をコピーします"
 
 #: lib/block_scout_web/templates/account/custom_abi/row.html.eex:6
 #: lib/block_scout_web/templates/account/custom_abi/row.html.eex:6
 #, elixir-autogen, elixir-format
 msgid "Copy Contract Address"
-msgstr ""
+msgstr "契約アドレスをコピーします"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:177
 #: lib/block_scout_web/templates/address_contract/index.html.eex:193
 #, elixir-autogen, elixir-format
 msgid "Copy Contract Creation Code"
-msgstr ""
+msgstr "契約作成コードをコピーします"
 
 #: lib/block_scout_web/templates/address_decompiled_contract/index.html.eex:19
 #, elixir-autogen, elixir-format
 msgid "Copy Decompiled Contract Code"
-msgstr ""
+msgstr "分解された契約コードをコピーします"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:214
 #: lib/block_scout_web/templates/address_contract/index.html.eex:224
 #, elixir-autogen, elixir-format
 msgid "Copy Deployed ByteCode"
-msgstr ""
+msgstr "展開されたbytecodeをコピーします"
 
 #: lib/block_scout_web/templates/account/watchlist_address/row.html.eex:7
 #: lib/block_scout_web/templates/transaction/_total_transfers_from_to.html.eex:17
@@ -886,35 +886,35 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:254
 #, elixir-autogen, elixir-format
 msgid "Copy From Address"
-msgstr ""
+msgstr "住所からコピーします"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:129
 #: lib/block_scout_web/templates/block/overview.html.eex:130
 #, elixir-autogen, elixir-format
 msgid "Copy Hash"
-msgstr ""
+msgstr "ハッシュをコピーします"
 
 #: lib/block_scout_web/templates/tokens/instance/metadata/index.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Copy Metadata"
-msgstr ""
+msgstr "メタデータをコピーします"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:149
 #: lib/block_scout_web/templates/block/overview.html.eex:150
 #, elixir-autogen, elixir-format
 msgid "Copy Parent Hash"
-msgstr ""
+msgstr "親のハッシュをコピーします"
 
 #: lib/block_scout_web/templates/transaction_raw_trace/_card_body.html.eex:9
 #, elixir-autogen, elixir-format
 msgid "Copy Raw Trace"
-msgstr ""
+msgstr "生のトレースをコピーします"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:121
 #: lib/block_scout_web/templates/address_contract/index.html.eex:133
 #, elixir-autogen, elixir-format
 msgid "Copy Source Code"
-msgstr ""
+msgstr "ソースコードをコピーします"
 
 #: lib/block_scout_web/templates/transaction/_total_transfers_from_to.html.eex:34
 #: lib/block_scout_web/templates/transaction/_total_transfers_from_to.html.eex:35
@@ -924,33 +924,33 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:289
 #, elixir-autogen, elixir-format
 msgid "Copy To Address"
-msgstr ""
+msgstr "住所にコピーします"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:32
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:33
 #, elixir-autogen, elixir-format
 msgid "Copy Token ID"
-msgstr ""
+msgstr "トークンIDをコピーします"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:87
 #, elixir-autogen, elixir-format
 msgid "Copy Transaction Hash"
-msgstr ""
+msgstr "トランザクションハッシュをコピーします"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:88
 #, elixir-autogen, elixir-format
 msgid "Copy Txn Hash"
-msgstr ""
+msgstr "TXNハッシュをコピーします"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:551
 #, elixir-autogen, elixir-format
 msgid "Copy Txn Hex Input"
-msgstr ""
+msgstr "Txn Hex入力をコピーします"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:557
 #, elixir-autogen, elixir-format
 msgid "Copy Txn UTF-8 Input"
-msgstr ""
+msgstr "Txn UTF-8入力をコピーします"
 
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:20
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:41
@@ -959,12 +959,12 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction_raw_trace/_card_body.html.eex:8
 #, elixir-autogen, elixir-format
 msgid "Copy Value"
-msgstr ""
+msgstr "値をコピーします"
 
 #: lib/block_scout_web/views/internal_transaction_view.ex:25
 #, elixir-autogen, elixir-format
 msgid "Create"
-msgstr ""
+msgstr "作成"
 
 #: lib/block_scout_web/templates/account/custom_abi/index.html.eex:12
 #, elixir-autogen, elixir-format
@@ -979,18 +979,18 @@ msgstr ""
 #: lib/block_scout_web/views/internal_transaction_view.ex:26
 #, elixir-autogen, elixir-format
 msgid "Create2"
-msgstr ""
+msgstr "作成者2"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:102
 #, elixir-autogen, elixir-format
 msgid "Creator"
-msgstr ""
+msgstr "作成者"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:146
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:116
 #, elixir-autogen, elixir-format
 msgid "Curl"
-msgstr ""
+msgstr "カール"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:97
 #, elixir-autogen, elixir-format
@@ -1001,7 +1001,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_write_contract/index.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Custom"
-msgstr ""
+msgstr "カスタム"
 
 #: lib/block_scout_web/templates/account/common/_nav.html.eex:19
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:8
@@ -1009,18 +1009,18 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:19
 #, elixir-autogen, elixir-format
 msgid "Custom ABI"
-msgstr ""
+msgstr "カスタムABI"
 
 #: lib/block_scout_web/templates/address_read_contract/index.html.eex:25
 #: lib/block_scout_web/templates/address_write_contract/index.html.eex:23
 #, elixir-autogen, elixir-format
 msgid "Custom ABI from account"
-msgstr ""
+msgstr "アカウントからのカスタムABI"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:70
 #, elixir-autogen, elixir-format
 msgid "Daily Transactions"
-msgstr ""
+msgstr "毎日の取引"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:101
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:7
@@ -1028,7 +1028,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:121
 #, elixir-autogen, elixir-format
 msgid "Data"
-msgstr ""
+msgstr "データ"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:70
 #, elixir-autogen, elixir-format
@@ -1044,7 +1044,7 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:131
 #, elixir-autogen, elixir-format
 msgid "Decimals"
-msgstr ""
+msgstr "デシマル"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:32
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:38
@@ -1055,38 +1055,38 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:73
 #, elixir-autogen, elixir-format
 msgid "Decoded"
-msgstr ""
+msgstr "デコード"
 
 #: lib/block_scout_web/views/address_view.ex:378
 #, elixir-autogen, elixir-format
 msgid "Decompiled Code"
-msgstr ""
+msgstr "コードを逆コンパイルします"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:83
 #, elixir-autogen, elixir-format
 msgid "Decompiled code"
-msgstr ""
+msgstr "コードを逆コンパイルします"
 
 #: lib/block_scout_web/templates/address_decompiled_contract/index.html.eex:17
 #, elixir-autogen, elixir-format
 msgid "Decompiled contract code"
-msgstr ""
+msgstr "契約コードを逆コンパイルします"
 
 #: lib/block_scout_web/templates/address_decompiled_contract/index.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "Decompiler version"
-msgstr ""
+msgstr "分解バージョン"
 
 #: lib/block_scout_web/views/internal_transaction_view.ex:23
 #, elixir-autogen, elixir-format
 msgid "Delegate Call"
-msgstr ""
+msgstr "委任コール"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:212
 #: lib/block_scout_web/templates/address_contract/index.html.eex:220
 #, elixir-autogen, elixir-format
 msgid "Deployed ByteCode"
-msgstr ""
+msgstr "展開されたByteCode"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:53
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:188
@@ -1094,24 +1094,24 @@ msgstr ""
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:150
 #, elixir-autogen, elixir-format
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:56
 #, elixir-autogen, elixir-format
 msgid "Description*"
-msgstr ""
+msgstr "説明*"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:30
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:166
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:127
 #, elixir-autogen, elixir-format
 msgid "Details"
-msgstr ""
+msgstr "詳細"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:159
 #, elixir-autogen, elixir-format
 msgid "Difficulty"
-msgstr ""
+msgstr "困難"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:182
 #, elixir-autogen, elixir-format
@@ -1122,7 +1122,7 @@ msgstr ""
 #: lib/block_scout_web/templates/csv_export/index.html.eex:33
 #, elixir-autogen, elixir-format
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:72
 #, elixir-autogen, elixir-format
@@ -1152,55 +1152,55 @@ msgstr ""
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:27
 #, elixir-autogen, elixir-format
 msgid "E-mail*"
-msgstr ""
+msgstr "Eメール*"
 
 #: lib/block_scout_web/templates/common_components/_minimal_proxy_pattern.html.eex:6
 #, elixir-autogen, elixir-format
 msgid "EIP-1167"
-msgstr ""
+msgstr "EIP-1167"
 
 #: lib/block_scout_web/views/transaction_view.ex:220
 #, elixir-autogen, elixir-format
 msgid "ERC-1155 "
-msgstr ""
+msgstr "ERC-1155 "
 
 #: lib/block_scout_web/views/transaction_view.ex:218
 #, elixir-autogen, elixir-format
 msgid "ERC-20 "
-msgstr ""
+msgstr "ERC-20 "
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "ERC-20 tokens (beta)"
-msgstr ""
+msgstr "ERC-20トークン（ベータ）"
 
 #: lib/block_scout_web/views/transaction_view.ex:219
 #, elixir-autogen, elixir-format
 msgid "ERC-721 "
-msgstr ""
+msgstr "ERC-721 "
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:53
 #, elixir-autogen, elixir-format
 msgid "ERC-721, ERC-1155 tokens (NFT) (beta)"
-msgstr ""
+msgstr "ERC-721、ERC-1155トークン（NFT）（ベータ）"
 
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "ETH RPC API Documentation"
-msgstr ""
+msgstr "ETH RPC APIドキュメント"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:83
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:30
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "EVM Version"
-msgstr ""
+msgstr "EVMバージョン"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:34
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:26
 #, elixir-autogen, elixir-format
 msgid "EVM version details"
-msgstr ""
+msgstr "EVMバージョンの詳細"
 
 #: lib/block_scout_web/views/block_transaction_view.ex:7
 #, elixir-autogen, elixir-format
@@ -1212,68 +1212,68 @@ msgstr ""
 #: lib/block_scout_web/templates/account/watchlist_address/row.html.eex:27
 #, elixir-autogen, elixir-format
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Edit Watch list address"
-msgstr ""
+msgstr "監視リストアドレスを編集します"
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:71
 #, elixir-autogen, elixir-format
 msgid "Email notifications"
-msgstr ""
+msgstr "電子メール通知"
 
 #: lib/block_scout_web/templates/transaction/_emission_reward_tile.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Emission Contract"
-msgstr ""
+msgstr "排出契約"
 
 #: lib/block_scout_web/views/block_view.ex:73
 #, elixir-autogen, elixir-format
 msgid "Emission Reward"
-msgstr ""
+msgstr "排出報酬"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:72
 #, elixir-autogen, elixir-format
 msgid "Enter the Solidity Contract Code"
-msgstr ""
+msgstr "Solidity Contractコードを入力します"
 
 #: lib/block_scout_web/templates/address_contract_verification_vyper/new.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Enter the Vyper Contract Code"
-msgstr ""
+msgstr "Vyper契約コードを入力します"
 
 #: lib/block_scout_web/templates/internal_transaction/_tile.html.eex:11
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "Error in internal transactions"
-msgstr ""
+msgstr "内部トランザクションのエラー"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:33
 #, elixir-autogen, elixir-format
 msgid "Error rendering value"
-msgstr ""
+msgstr "エラーレンダリング値"
 
 #: lib/block_scout_web/templates/address/_balance_dropdown.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "Error trying to fetch balances."
-msgstr ""
+msgstr "残高を取得しようとするエラー。"
 
 #: lib/block_scout_web/views/transaction_view.ex:373
 #, elixir-autogen, elixir-format
 msgid "Error: %{reason}"
-msgstr ""
+msgstr "エラー：%{reason}"
 
 #: lib/block_scout_web/views/transaction_view.ex:371
 #, elixir-autogen, elixir-format
 msgid "Error: (Awaiting internal transactions for reason)"
-msgstr ""
+msgstr "エラー：契約作成者を決定できませんでした。"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:120
 #, elixir-autogen, elixir-format
@@ -1283,83 +1283,83 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:120
 #, elixir-autogen, elixir-format
 msgid "Eth RPC"
-msgstr ""
+msgstr "Eth RPC"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:211
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:164
 #, elixir-autogen, elixir-format
 msgid "Example Value"
-msgstr ""
+msgstr "例の例"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:128
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:99
 #, elixir-autogen, elixir-format
 msgid "Execute"
-msgstr ""
+msgstr "実行する"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "Expand"
-msgstr ""
+msgstr "拡大"
 
 #: lib/block_scout_web/templates/csv_export/index.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "Export Data"
-msgstr ""
+msgstr "データのエクスポート"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:249
 #, elixir-autogen, elixir-format
 msgid "External libraries"
-msgstr ""
+msgstr "外部ライブラリ"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Failed to decode input data."
-msgstr ""
+msgstr "入力データをデコードできませんでした。"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:35
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Failed to decode log data."
-msgstr ""
+msgstr "ログデータをデコードできませんでした。"
 
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Fast"
-msgstr ""
+msgstr "速い"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:247
 #, elixir-autogen, elixir-format
 msgid "Fetching gas used..."
-msgstr ""
+msgstr "使用されているガスの取得..."
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:112
 #, elixir-autogen, elixir-format
 msgid "Fetching holders..."
-msgstr ""
+msgstr "ホルダーの取得..."
 
 #: lib/block_scout_web/templates/address/_balance_dropdown.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Fetching tokens..."
-msgstr ""
+msgstr "トークンの取得..."
 
 #: lib/block_scout_web/templates/address/overview.html.eex:194
 #: lib/block_scout_web/templates/address/overview.html.eex:202
 #, elixir-autogen, elixir-format
 msgid "Fetching transactions..."
-msgstr ""
+msgstr "取引の取得..."
 
 #: lib/block_scout_web/templates/address/overview.html.eex:221
 #: lib/block_scout_web/templates/address/overview.html.eex:229
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:123
 #, elixir-autogen, elixir-format
 msgid "Fetching transfers..."
-msgstr ""
+msgstr "転送の取得..."
 
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:15
 #, elixir-autogen, elixir-format
 msgid "Filter by compiler:"
-msgstr ""
+msgstr "コンパイラによるフィルター："
 
 #: lib/block_scout_web/templates/admin/dashboard/index.html.eex:16
 #, elixir-autogen, elixir-format
@@ -1369,17 +1369,17 @@ msgstr ""
 #: lib/block_scout_web/templates/visualize_sol2uml/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "For contract"
-msgstr ""
+msgstr "契約用"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:44
 #, elixir-autogen, elixir-format
 msgid "Forked Blocks (Reorgs)"
-msgstr ""
+msgstr "フォークブロック（Reorgs）"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:45
 #, elixir-autogen, elixir-format
 msgid "Forum"
-msgstr ""
+msgstr "フォーラム"
 
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:38
 #: lib/block_scout_web/templates/address_token_transfer/index.html.eex:40
@@ -1390,56 +1390,56 @@ msgstr ""
 #: lib/block_scout_web/views/address_transaction_view.ex:10
 #, elixir-autogen, elixir-format
 msgid "From"
-msgstr ""
+msgstr "から"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "GET"
-msgstr ""
+msgstr "得る"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:67
 #: lib/block_scout_web/templates/block/overview.html.eex:187
 #, elixir-autogen, elixir-format
 msgid "Gas Limit"
-msgstr ""
+msgstr "ガス制限"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:240
 #: lib/block_scout_web/templates/block/_tile.html.eex:73
 #: lib/block_scout_web/templates/block/overview.html.eex:178
 #, elixir-autogen, elixir-format
 msgid "Gas Used"
-msgstr ""
+msgstr "使用するガス"
 
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:3
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Gas tracker"
-msgstr ""
+msgstr "ガストラッカー"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:239
 #, elixir-autogen, elixir-format
 msgid "Gas used by the address."
-msgstr ""
+msgstr "住所で使用されるガス。"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:60
 #, elixir-autogen, elixir-format
 msgid "Genesis Block"
-msgstr ""
+msgstr "ジェネシスブロック"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: lib/block_scout_web/templates/common_components/_rap_pagination_container.html.eex:8
 #, elixir-autogen, elixir-format
 msgid "Go to"
-msgstr ""
+msgstr "行きます"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:110
 #, elixir-autogen, elixir-format
 msgid "GraphQL"
-msgstr ""
+msgstr "GraphQL"
 
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:11
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:20
@@ -1450,38 +1450,38 @@ msgstr ""
 #: lib/block_scout_web/views/wei_helper.ex:77
 #, elixir-autogen, elixir-format
 msgid "Gwei"
-msgstr ""
+msgstr "Gwei"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:123
 #, elixir-autogen, elixir-format
 msgid "Hash"
-msgstr ""
+msgstr "ハッシュ"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:533
 #: lib/block_scout_web/templates/transaction/overview.html.eex:537
 #, elixir-autogen, elixir-format
 msgid "Hex (Default)"
-msgstr ""
+msgstr "ヘックス（デフォルト）"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:224
 #, elixir-autogen, elixir-format
 msgid "Highlighted events of the transaction."
-msgstr ""
+msgstr "トランザクションのハイライトされたイベント。"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:108
 #, elixir-autogen, elixir-format
 msgid "Holders"
-msgstr ""
+msgstr "所有者"
 
 #: lib/block_scout_web/templates/tokens/index.html.eex:48
 #, elixir-autogen, elixir-format
 msgid "Holders Count"
-msgstr ""
+msgstr "保有者数"
 
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "However, in general, the"
-msgstr ""
+msgstr "ただし、一般に、"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:19
 #, elixir-autogen, elixir-format
@@ -1492,7 +1492,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:92
 #, elixir-autogen, elixir-format
 msgid "IN"
-msgstr ""
+msgstr "の"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:56
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:48
@@ -1503,7 +1503,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address/overview.html.eex:133
 #, elixir-autogen, elixir-format
 msgid "Implementation"
-msgstr ""
+msgstr "実装"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:132
 #, elixir-autogen, elixir-format
@@ -1513,14 +1513,14 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_include_nightly_builds_field.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Include nightly builds"
-msgstr ""
+msgstr "毎晩のビルドを含めます"
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:30
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:43
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:56
 #, elixir-autogen, elixir-format
 msgid "Incoming"
-msgstr ""
+msgstr "着信"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:517
 #, elixir-autogen, elixir-format
@@ -1535,22 +1535,22 @@ msgstr ""
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:6
 #, elixir-autogen, elixir-format
 msgid "Indexed?"
-msgstr ""
+msgstr "インデックス付き？"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Input"
-msgstr ""
+msgstr "入力"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:265
 #, elixir-autogen, elixir-format
 msgid "Interacted With (To)"
-msgstr ""
+msgstr "（to）とやり取りした"
 
 #: lib/block_scout_web/templates/internal_transaction/_tile.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Internal Transaction"
-msgstr ""
+msgstr "内部トランザクション"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:36
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:17
@@ -1560,62 +1560,62 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:542
 #, elixir-autogen, elixir-format
 msgid "Internal Transactions"
-msgstr ""
+msgstr "内部トランザクション"
 
 #: lib/block_scout_web/templates/internal_server_error/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Internal server error"
-msgstr ""
+msgstr "内部サーバーエラー"
 
 #: lib/block_scout_web/templates/tokens/inventory/index.html.eex:16
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:19
 #: lib/block_scout_web/views/tokens/overview_view.ex:42
 #, elixir-autogen, elixir-format
 msgid "Inventory"
-msgstr ""
+msgstr "在庫"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_yul_contracts_switcher.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Is Yul contract"
-msgstr ""
+msgstr "YUL契約です"
 
 #: lib/block_scout_web/templates/verified_contracts/_stats.html.eex:13
 #: lib/block_scout_web/templates/verified_contracts/_stats.html.eex:26
 #, elixir-autogen, elixir-format
 msgid "Last 24h"
-msgstr ""
+msgstr "最後の24時間"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:258
 #, elixir-autogen, elixir-format
 msgid "Last Balance Update"
-msgstr ""
+msgstr "最終バランスアップデート"
 
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:12
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Learn more"
-msgstr ""
+msgstr "もっと詳しく知る"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:58
 #, elixir-autogen, elixir-format
 msgid "Less than"
-msgstr ""
+msgstr "未満"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_library_address.html.eex:4
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_library_name.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "Library"
-msgstr ""
+msgstr "図書館"
 
 #: lib/block_scout_web/templates/address/_validator_metadata_modal.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "License Expires"
-msgstr ""
+msgstr "ライセンスは期限切れです"
 
 #: lib/block_scout_web/templates/address/_validator_metadata_modal.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "License ID"
-msgstr ""
+msgstr "ライセンスID"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:351
 #, elixir-autogen, elixir-format
@@ -1640,7 +1640,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_coin_balance/index.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Loading chart..."
-msgstr ""
+msgstr "ロードチャート..."
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:77
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:109
@@ -1657,17 +1657,17 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/contract/index.html.eex:17
 #, elixir-autogen, elixir-format
 msgid "Loading..."
-msgstr ""
+msgstr "読み込み..."
 
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "Log Data"
-msgstr ""
+msgstr "ログデータ"
 
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:131
 #, elixir-autogen, elixir-format
 msgid "Log Index"
-msgstr ""
+msgstr "ログインデックス"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:49
 #: lib/block_scout_web/templates/address_logs/index.html.eex:10
@@ -1677,12 +1677,12 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:543
 #, elixir-autogen, elixir-format
 msgid "Logs"
-msgstr ""
+msgstr "ログ"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:54
 #, elixir-autogen, elixir-format
 msgid "Main Networks"
-msgstr ""
+msgstr "メインネットワーク"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:53
 #: lib/block_scout_web/templates/layout/app.html.eex:59
@@ -1690,27 +1690,27 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:145
 #, elixir-autogen, elixir-format
 msgid "Market Cap"
-msgstr ""
+msgstr "時価総額"
 
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:78
 #, elixir-autogen, elixir-format
 msgid "Market cap"
-msgstr ""
+msgstr "時価総額"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:428
 #, elixir-autogen, elixir-format
 msgid "Max Fee per Gas"
-msgstr ""
+msgstr "ガスあたりの最大料金"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:438
 #, elixir-autogen, elixir-format
 msgid "Max Priority Fee per Gas"
-msgstr ""
+msgstr "ガスあたりの最大優先料金"
 
 #: lib/block_scout_web/views/transaction_view.ex:325
 #, elixir-autogen, elixir-format
 msgid "Max of"
-msgstr ""
+msgstr "最大"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:427
 #, elixir-autogen, elixir-format
@@ -1722,12 +1722,12 @@ msgstr ""
 #: lib/block_scout_web/views/tokens/instance/overview_view.ex:115
 #, elixir-autogen, elixir-format
 msgid "Metadata"
-msgstr ""
+msgstr "メタデータ"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Method Id"
-msgstr ""
+msgstr "メソッドId"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:41
 #: lib/block_scout_web/templates/block/overview.html.eex:98
@@ -1735,18 +1735,18 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction_state/_state_change.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Miner"
-msgstr ""
+msgstr "マイナー"
 
 #: lib/block_scout_web/views/block_view.ex:63
 #: lib/block_scout_web/views/block_view.ex:68
 #, elixir-autogen, elixir-format
 msgid "Miner Reward"
-msgstr ""
+msgstr "マイナー報酬"
 
 #: lib/block_scout_web/templates/common_components/_minimal_proxy_pattern.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Minimal Proxy Contract for"
-msgstr ""
+msgstr "最小限のプロキシ契約"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:206
 #, elixir-autogen, elixir-format
@@ -1756,22 +1756,22 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/_actions.html.eex:92
 #, elixir-autogen, elixir-format
 msgid "Mint of %{address} <span class=\"text-muted\">To</span> %{to}"
-msgstr ""
+msgstr "Mint of %{address} <span class=\"text-muted\">To</span> %{to}"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:223
 #, elixir-autogen, elixir-format
 msgid "Model"
-msgstr ""
+msgstr "モデル"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:58
 #, elixir-autogen, elixir-format
 msgid "Module"
-msgstr ""
+msgstr "モジュール"
 
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:12
 #, elixir-autogen, elixir-format
 msgid "More internal transactions have come in"
-msgstr ""
+msgstr "より多くの内部トランザクションが登場しました"
 
 #: lib/block_scout_web/templates/address_transaction/index.html.eex:46
 #: lib/block_scout_web/templates/chain/show.html.eex:204
@@ -1779,13 +1779,13 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/index.html.eex:19
 #, elixir-autogen, elixir-format
 msgid "More transactions have come in"
-msgstr ""
+msgstr "より多くのトランザクションが入っています"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:63
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:74
 #, elixir-autogen, elixir-format
 msgid "Must be set to:"
-msgstr ""
+msgstr "次のように設定する必要があります"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:22
 #, elixir-autogen, elixir-format
@@ -1797,12 +1797,12 @@ msgstr ""
 #: lib/block_scout_web/templates/verified_contracts/_contract.html.eex:61
 #, elixir-autogen, elixir-format
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:116
 #, elixir-autogen, elixir-format
 msgid "N/A bytes"
-msgstr ""
+msgstr "N/Aバイト"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:19
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:28
@@ -1821,54 +1821,54 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:21
 #, elixir-autogen, elixir-format
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Name this API key"
-msgstr ""
+msgstr "このAPIキーに名前を付けます"
 
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Name this Custom ABI"
-msgstr ""
+msgstr "このカスタムABIに名前を付けます"
 
 #: lib/block_scout_web/templates/account/tag_address/form.html.eex:19
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Name this address"
-msgstr ""
+msgstr "このアドレスに名前を付けます"
 
 #: lib/block_scout_web/templates/account/tag_transaction/form.html.eex:19
 #, elixir-autogen, elixir-format
 msgid "Name this transaction"
-msgstr ""
+msgstr "このトランザクションに名前を付けます"
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:44
 #, elixir-autogen, elixir-format
 msgid "Net Worth"
-msgstr ""
+msgstr "純資産"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "New Smart Contract Verification"
-msgstr ""
+msgstr "新しいスマートコントラクト検証"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:9
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "New Solidity Smart Contract Verification"
-msgstr ""
+msgstr "新しいSolitidityスマートコントラクト検証"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "New Solidity/Yul Smart Contract Verification"
-msgstr ""
+msgstr "新しいSolidity/Yulスマート契約検証"
 
 #: lib/block_scout_web/templates/address_contract_verification_vyper/new.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "New Vyper Smart Contract Verification"
-msgstr ""
+msgstr "新しいVyperスマートコントラクト検証"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:80
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:87
@@ -1877,7 +1877,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:111
 #, elixir-autogen, elixir-format
 msgid "Next"
-msgstr ""
+msgstr "次"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_fetch_constructor_args.html.eex:9
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_include_nightly_builds_field.html.eex:9
@@ -1886,28 +1886,28 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:38
 #, elixir-autogen, elixir-format
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: lib/block_scout_web/templates/transaction_raw_trace/_card_body.html.eex:17
 #, elixir-autogen, elixir-format
 msgid "No trace entries found."
-msgstr ""
+msgstr "トレースエントリは見つかりません。"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:196
 #: lib/block_scout_web/templates/transaction/overview.html.eex:515
 #, elixir-autogen, elixir-format
 msgid "Nonce"
-msgstr ""
+msgstr "Nonce"
 
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "Not unique Token"
-msgstr ""
+msgstr "ユニークなトークンではありません"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:107
 #, elixir-autogen, elixir-format
 msgid "Number of accounts holding the token"
-msgstr ""
+msgstr "トークンを保持しているアカウントの数"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:274
 #, elixir-autogen, elixir-format
@@ -1938,80 +1938,80 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:88
 #, elixir-autogen, elixir-format
 msgid "OUT"
-msgstr ""
+msgstr "外"
 
 #: lib/block_scout_web/templates/common_components/_rap_pagination_container.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Only the first"
-msgstr ""
+msgstr "最初のみ"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:40
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:32
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:69
 #, elixir-autogen, elixir-format
 msgid "Optimization"
-msgstr ""
+msgstr "最適化"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:68
 #, elixir-autogen, elixir-format
 msgid "Optimization enabled"
-msgstr ""
+msgstr "最適化を有効にします"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:77
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:62
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:54
 #, elixir-autogen, elixir-format
 msgid "Optimization runs"
-msgstr ""
+msgstr "最適化が実行されます"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:78
 #, elixir-autogen, elixir-format
 msgid "Other Explorers"
-msgstr ""
+msgstr "他の探検家"
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:35
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:48
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:61
 #, elixir-autogen, elixir-format
 msgid "Outgoing"
-msgstr ""
+msgstr "発信"
 
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "Owner Address"
-msgstr ""
+msgstr "所有者アドレス"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:77
 #, elixir-autogen, elixir-format
 msgid "POA solidity flattener or the"
-msgstr ""
+msgstr "POA Solidity Flattenerまたは"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:19
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:26
 #, elixir-autogen, elixir-format
 msgid "POST"
-msgstr ""
+msgstr "役職"
 
 #: lib/block_scout_web/templates/common_components/_pagination_container.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Page"
-msgstr ""
+msgstr "ページ"
 
 #: lib/block_scout_web/templates/page_not_found/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Page not found"
-msgstr ""
+msgstr "ページが見つかりません"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:33
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Parameters"
-msgstr ""
+msgstr "パラメーター"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:139
 #, elixir-autogen, elixir-format
 msgid "Parent Hash"
-msgstr ""
+msgstr "親のハッシュ"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:63
 #: lib/block_scout_web/views/transaction_view.ex:368
@@ -2019,18 +2019,18 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:416
 #, elixir-autogen, elixir-format
 msgid "Pending"
-msgstr ""
+msgstr "保留中"
 
 #: lib/block_scout_web/templates/pending_transaction/index.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Pending Transactions"
-msgstr ""
+msgstr "保留中の取引"
 
 #: lib/block_scout_web/templates/address/_custom_view_df_title.html.eex:9
 #: lib/block_scout_web/templates/address/_custom_view_df_title.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Play"
-msgstr ""
+msgstr "遊ぶ"
 
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:22
 #: lib/block_scout_web/templates/layout/app.html.eex:106
@@ -2051,12 +2051,12 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:517
 #, elixir-autogen, elixir-format
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:254
 #, elixir-autogen, elixir-format
 msgid "Position %{index}"
-msgstr ""
+msgstr "位置%{index}"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:18
 #, elixir-autogen, elixir-format
@@ -2078,45 +2078,45 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:96
 #, elixir-autogen, elixir-format
 msgid "Price"
-msgstr ""
+msgstr "価格"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:95
 #, elixir-autogen, elixir-format
 msgid "Price per token on the exchanges"
-msgstr ""
+msgstr "取引所のトークンあたりの価格"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:225
 #: lib/block_scout_web/templates/transaction/overview.html.eex:448
 #, elixir-autogen, elixir-format
 msgid "Priority Fee / Tip"
-msgstr ""
+msgstr "優先料金 / ヒント"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:62
 #, elixir-autogen, elixir-format
 msgid "Priority Fees"
-msgstr ""
+msgstr "優先料金"
 
 #: lib/block_scout_web/templates/account/common/_nav.html.eex:4
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Profile"
-msgstr ""
+msgstr "プロフィール"
 
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Public Tags"
-msgstr ""
+msgstr "パブリックタグ"
 
 #: lib/block_scout_web/templates/account/public_tags_request/index.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Public tag"
-msgstr ""
+msgstr "パブリックタグ"
 
 #: lib/block_scout_web/templates/account/common/_nav.html.eex:22
 #: lib/block_scout_web/templates/account/public_tags_request/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Public tags"
-msgstr ""
+msgstr "パブリックタグ"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:50
 #, elixir-autogen, elixir-format
@@ -2128,29 +2128,29 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:83
 #, elixir-autogen, elixir-format
 msgid "QR Code"
-msgstr ""
+msgstr "QRコード"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:106
 #, elixir-autogen, elixir-format
 msgid "Query"
-msgstr ""
+msgstr "クエリ"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:115
 #, elixir-autogen, elixir-format
 msgid "RPC"
-msgstr ""
+msgstr "RPC"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:526
 #, elixir-autogen, elixir-format
 msgid "Raw Input"
-msgstr ""
+msgstr "生の入力"
 
 #: lib/block_scout_web/templates/transaction/_tabs.html.eex:24
 #: lib/block_scout_web/templates/transaction_raw_trace/_card_body.html.eex:1
 #: lib/block_scout_web/views/transaction_view.ex:544
 #, elixir-autogen, elixir-format
 msgid "Raw Trace"
-msgstr ""
+msgstr "生のトレース"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:89
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:27
@@ -2158,60 +2158,60 @@ msgstr ""
 #: lib/block_scout_web/views/tokens/overview_view.ex:41
 #, elixir-autogen, elixir-format
 msgid "Read Contract"
-msgstr ""
+msgstr "契約を読む"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:96
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:41
 #: lib/block_scout_web/views/address_view.ex:380
 #, elixir-autogen, elixir-format
 msgid "Read Proxy"
-msgstr ""
+msgstr "プロキシを読んでください"
 
 #: lib/block_scout_web/templates/common_components/_pagination_container.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Records"
-msgstr ""
+msgstr "記録"
 
 #: lib/block_scout_web/templates/account/api_key/row.html.eex:13
 #: lib/block_scout_web/templates/account/custom_abi/row.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Remove"
-msgstr ""
+msgstr "削除"
 
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:77
 #, elixir-autogen, elixir-format
 msgid "Remove from Watch list"
-msgstr ""
+msgstr "ウォッチリストから削除します"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:155
 #, elixir-autogen, elixir-format
 msgid "Request URL"
-msgstr ""
+msgstr "URLをリクエストします"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Request a public tag/label"
-msgstr ""
+msgstr "パブリックタグ/ラベルをリクエストします"
 
 #: lib/block_scout_web/templates/error422/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Request cannot be processed"
-msgstr ""
+msgstr "リクエストは処理できません"
 
 #: lib/block_scout_web/templates/account/public_tags_request/index.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Request to add public tag"
-msgstr ""
+msgstr "パブリックタグを追加するリクエスト"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Request to edit a public tag/label"
-msgstr ""
+msgstr "パブリックタグ/ラベルを編集するリクエスト"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:106
 #, elixir-autogen, elixir-format
 msgid "Resend verification email"
-msgstr ""
+msgstr "確認メールを再送"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:112
 #: lib/block_scout_web/templates/address_contract_verification_via_json/new.html.eex:38
@@ -2220,41 +2220,41 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_vyper/new.html.eex:48
 #, elixir-autogen, elixir-format
 msgid "Reset"
-msgstr ""
+msgstr "リセット"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:173
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:134
 #, elixir-autogen, elixir-format
 msgid "Response Body"
-msgstr ""
+msgstr "応答本体"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:185
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:147
 #, elixir-autogen, elixir-format
 msgid "Responses"
-msgstr ""
+msgstr "反応"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:98
 #, elixir-autogen, elixir-format
 msgid "Result"
-msgstr ""
+msgstr "結果"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:138
 #, elixir-autogen, elixir-format
 msgid "Revert reason"
-msgstr ""
+msgstr "理由を戻します"
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:52
 #: lib/block_scout_web/templates/chain/_block.html.eex:27
 #: lib/block_scout_web/views/internal_transaction_view.ex:28
 #, elixir-autogen, elixir-format
 msgid "Reward"
-msgstr ""
+msgstr "褒美"
 
 #: lib/block_scout_web/templates/admin/dashboard/index.html.eex:21
 #, elixir-autogen, elixir-format
 msgid "Run"
-msgstr ""
+msgstr "走る"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:26
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:31
@@ -2263,23 +2263,23 @@ msgstr ""
 #: lib/block_scout_web/templates/account/watchlist_address/form.html.eex:83
 #, elixir-autogen, elixir-format
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:226
 #, elixir-autogen, elixir-format
 msgid "Scroll to see more"
-msgstr ""
+msgstr "詳細を確認してください"
 
 #: lib/block_scout_web/templates/address_logs/index.html.eex:16
 #: lib/block_scout_web/templates/layout/_search.html.eex:34
 #, elixir-autogen, elixir-format
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: lib/block_scout_web/templates/search/results.html.eex:17
 #, elixir-autogen, elixir-format
 msgid "Search Results"
-msgstr ""
+msgstr "の検索結果"
 
 #: lib/block_scout_web/templates/layout/_search.html.eex:3
 #, elixir-autogen, elixir-format
@@ -2289,7 +2289,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_token_balance/_token_balances.html.eex:47
 #, elixir-autogen, elixir-format
 msgid "Search tokens"
-msgstr ""
+msgstr "トークンを検索します"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_yul_contracts_switcher.html.eex:19
 #, elixir-autogen, elixir-format
@@ -2304,33 +2304,33 @@ msgstr ""
 #: lib/block_scout_web/views/internal_transaction_view.ex:27
 #, elixir-autogen, elixir-format
 msgid "Self-Destruct"
-msgstr ""
+msgstr "自己破壊"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Send request"
-msgstr ""
+msgstr "リクエストを送信します"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:163
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:124
 #, elixir-autogen, elixir-format
 msgid "Server Response"
-msgstr ""
+msgstr "サーバーの応答"
 
 #: lib/block_scout_web/templates/common_components/_pagination_container.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Show"
-msgstr ""
+msgstr "見せる"
 
 #: lib/block_scout_web/templates/common_components/_btn_qr_code.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "Show QR Code"
-msgstr ""
+msgstr "QRコードを表示します"
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:52
 #, elixir-autogen, elixir-format
 msgid "Shows the current"
-msgstr ""
+msgstr "電流を示します"
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:59
 #, elixir-autogen, elixir-format
@@ -2350,12 +2350,12 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:33
 #, elixir-autogen, elixir-format
 msgid "Sign in"
-msgstr ""
+msgstr "ログイン"
 
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "Sign out"
-msgstr ""
+msgstr "サインアウト"
 
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:11
 #, elixir-autogen, elixir-format
@@ -2365,35 +2365,35 @@ msgstr ""
 #: lib/block_scout_web/templates/block/overview.html.eex:114
 #, elixir-autogen, elixir-format
 msgid "Size"
-msgstr ""
+msgstr "サイズ"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:113
 #, elixir-autogen, elixir-format
 msgid "Size of the block in bytes."
-msgstr ""
+msgstr "バイト単位のブロックのサイズ。"
 
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "Slow"
-msgstr ""
+msgstr "遅い"
 
 #: lib/block_scout_web/templates/account/public_tags_request/index.html.eex:21
 #, elixir-autogen, elixir-format
 msgid "Smart contract / Address"
-msgstr ""
+msgstr "スマートコントラクト / アドレス"
 
 #: lib/block_scout_web/templates/account/public_tags_request/address_field.html.eex:4
 #: lib/block_scout_web/templates/account/public_tags_request/address_field.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Smart contract / Address (0x...)"
-msgstr ""
+msgstr "スマートコントラクト / アドレス（0x ...）"
 
 #: lib/block_scout_web/templates/verified_contracts/_contract.html.eex:28
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:26
 #: lib/block_scout_web/views/verified_contracts_view.ex:10
 #, elixir-autogen, elixir-format
 msgid "Solidity"
-msgstr ""
+msgstr "Solidity"
 
 #: lib/block_scout_web/templates/address_coin_balance/index.html.eex:30
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:50
@@ -2421,12 +2421,12 @@ msgstr ""
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Something went wrong, click to reload."
-msgstr ""
+msgstr "何かがうまくいかなかったので、クリックしてリロードします。"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:210
 #, elixir-autogen, elixir-format
 msgid "Something went wrong, click to retry."
-msgstr ""
+msgstr "何かがうまくいかなかったので、クリックして再試行します。"
 
 #: lib/block_scout_web/templates/transaction/not_found.html.eex:6
 #, elixir-autogen, elixir-format
@@ -2436,71 +2436,71 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Sources *.sol files"
-msgstr ""
+msgstr "ソース *.sol ファイル"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Sources *.sol or *.yul files"
-msgstr ""
+msgstr "ソース *.sol または *.yul ファイル"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_json/new.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Sources and Metadata JSON"
-msgstr ""
+msgstr "ソースとメタデータJSON"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:136
 #, elixir-autogen, elixir-format
 msgid "Stakes"
-msgstr ""
+msgstr "ステークス"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_standard_json_input/new.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "Standard Input JSON"
-msgstr ""
+msgstr "標準入力JSON"
 
 #: lib/block_scout_web/templates/transaction/_tabs.html.eex:29
 #: lib/block_scout_web/templates/transaction_state/index.html.eex:6
 #: lib/block_scout_web/views/transaction_view.ex:545
 #, elixir-autogen, elixir-format
 msgid "State changes"
-msgstr ""
+msgstr "状態の変更"
 
 #: lib/block_scout_web/views/internal_transaction_view.ex:24
 #, elixir-autogen, elixir-format
 msgid "Static Call"
-msgstr ""
+msgstr "静的コール"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:110
 #, elixir-autogen, elixir-format
 msgid "Status"
-msgstr ""
+msgstr "スターテス"
 
 #: lib/block_scout_web/templates/account/public_tags_request/index.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Submission date"
-msgstr ""
+msgstr "提出日"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Submit an Issue"
-msgstr ""
+msgstr "問題を提出します"
 
 #: lib/block_scout_web/templates/transaction/_emission_reward_tile.html.eex:8
 #: lib/block_scout_web/views/transaction_view.ex:370
 #, elixir-autogen, elixir-format
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 #: lib/block_scout_web/templates/transaction/_pending_tile.html.eex:21
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:52
 #, elixir-autogen, elixir-format
 msgid "TX Fee"
-msgstr ""
+msgstr "TX料金"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:67
 #, elixir-autogen, elixir-format
 msgid "Test Networks"
-msgstr ""
+msgstr "ネットワークをテストします"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_library_first.html.eex:9
 #, elixir-autogen, elixir-format
@@ -2751,7 +2751,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:180
 #, elixir-autogen, elixir-format
 msgid "Timestamp"
-msgstr ""
+msgstr "タイムスタンプ"
 
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:32
 #: lib/block_scout_web/templates/address_token_transfer/index.html.eex:34
@@ -2764,7 +2764,7 @@ msgstr ""
 #: lib/block_scout_web/views/address_transaction_view.ex:9
 #, elixir-autogen, elixir-format
 msgid "To"
-msgstr ""
+msgstr "に"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:20
 #, elixir-autogen, elixir-format
@@ -2781,31 +2781,31 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Toggle navigation"
-msgstr ""
+msgstr "トグルナビゲーション"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:55
 #: lib/block_scout_web/templates/tokens/index.html.eex:31
 #, elixir-autogen, elixir-format
 msgid "Token"
-msgstr ""
+msgstr "トークン"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:3
 #: lib/block_scout_web/views/transaction_view.ex:478
 #, elixir-autogen, elixir-format
 msgid "Token Burning"
-msgstr ""
+msgstr "トークン燃焼"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:7
 #: lib/block_scout_web/views/transaction_view.ex:479
 #, elixir-autogen, elixir-format
 msgid "Token Creation"
-msgstr ""
+msgstr "トークンの作成"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:10
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:34
 #, elixir-autogen, elixir-format
 msgid "Token Details"
-msgstr ""
+msgstr "トークンの詳細"
 
 #: lib/block_scout_web/templates/tokens/holder/index.html.eex:17
 #: lib/block_scout_web/templates/tokens/instance/holder/index.html.eex:16
@@ -2814,27 +2814,27 @@ msgstr ""
 #: lib/block_scout_web/views/tokens/overview_view.ex:40
 #, elixir-autogen, elixir-format
 msgid "Token Holders"
-msgstr ""
+msgstr "トークンホルダー"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:38
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:18
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:37
 #, elixir-autogen, elixir-format
 msgid "Token ID"
-msgstr ""
+msgstr "トークンID"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:5
 #: lib/block_scout_web/views/transaction_view.ex:477
 #, elixir-autogen, elixir-format
 msgid "Token Minting"
-msgstr ""
+msgstr "トークンミント"
 
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:9
 #: lib/block_scout_web/templates/common_components/_token_transfer_type_display_name.html.eex:11
 #: lib/block_scout_web/views/transaction_view.ex:480
 #, elixir-autogen, elixir-format
 msgid "Token Transfer"
-msgstr ""
+msgstr "トークン転送"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:13
 #: lib/block_scout_web/templates/address_token_transfer/index.html.eex:19
@@ -2850,17 +2850,17 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:541
 #, elixir-autogen, elixir-format
 msgid "Token Transfers"
-msgstr ""
+msgstr "トークン転送"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:54
 #, elixir-autogen, elixir-format
 msgid "Token name and symbol."
-msgstr ""
+msgstr "トークンの名前とシンボル。"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:142
 #, elixir-autogen, elixir-format
 msgid "Token type"
-msgstr ""
+msgstr "トークンタイプ"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:21
 #: lib/block_scout_web/templates/address/overview.html.eex:175
@@ -2871,69 +2871,69 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:373
 #, elixir-autogen, elixir-format
 msgid "Tokens"
-msgstr ""
+msgstr "トークン"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:336
 #, elixir-autogen, elixir-format
 msgid "Tokens Burnt"
-msgstr ""
+msgstr "トークンが燃えました"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:352
 #, elixir-autogen, elixir-format
 msgid "Tokens Created"
-msgstr ""
+msgstr "作成されたトークン"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:319
 #, elixir-autogen, elixir-format
 msgid "Tokens Minted"
-msgstr ""
+msgstr "トークンが鋳造されました"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:303
 #, elixir-autogen, elixir-format
 msgid "Tokens Transferred"
-msgstr ""
+msgstr "転送されたトークン"
 
 #: lib/block_scout_web/templates/address/_metatags.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Top Accounts - %{subnetwork} Explorer"
-msgstr ""
+msgstr "トップアカウント - %{subnetwork}エクスプローラー"
 
 #: lib/block_scout_web/templates/address_logs/index.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Topic"
-msgstr ""
+msgstr "トピック"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:71
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:91
 #, elixir-autogen, elixir-format
 msgid "Topics"
-msgstr ""
+msgstr "トピック"
 
 #: lib/block_scout_web/templates/verified_contracts/_stats.html.eex:9
 #: lib/block_scout_web/templates/verified_contracts/_stats.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Total"
-msgstr ""
+msgstr "合計"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:169
 #, elixir-autogen, elixir-format
 msgid "Total Difficulty"
-msgstr ""
+msgstr "完全な難易度"
 
 #: lib/block_scout_web/templates/tokens/index.html.eex:43
 #, elixir-autogen, elixir-format
 msgid "Total Supply"
-msgstr ""
+msgstr "総供給"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:84
 #, elixir-autogen, elixir-format
 msgid "Total Supply * Price"
-msgstr ""
+msgstr "総供給 * 価格"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:118
 #, elixir-autogen, elixir-format
 msgid "Total blocks"
-msgstr ""
+msgstr "総ブロック"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:168
 #, elixir-autogen, elixir-format
@@ -2948,17 +2948,17 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:68
 #, elixir-autogen, elixir-format
 msgid "Total supply"
-msgstr ""
+msgstr "総供給"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:383
 #, elixir-autogen, elixir-format
 msgid "Total transaction fee."
-msgstr ""
+msgstr "総取引料。"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:97
 #, elixir-autogen, elixir-format
 msgid "Total transactions"
-msgstr ""
+msgstr "総トランザクション"
 
 #: lib/block_scout_web/templates/account/tag_transaction/form.html.eex:11
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:23
@@ -2966,55 +2966,55 @@ msgstr ""
 #: lib/block_scout_web/views/transaction_view.ex:490
 #, elixir-autogen, elixir-format
 msgid "Transaction"
-msgstr ""
+msgstr "取引"
 
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "Transaction %{transaction} - %{subnetwork} Explorer"
-msgstr ""
+msgstr "トランザクション%{transaction} - %{subnetwork}エクスプローラー"
 
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "Transaction %{transaction}, %{subnetwork} %{transaction}"
-msgstr ""
+msgstr "トランザクション%{トランザクション}、%{subnetwork}%{transaction}"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:458
 #, elixir-autogen, elixir-format
 msgid "Transaction Burnt Fee"
-msgstr ""
+msgstr "取引の燃焼手数料"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:50
 #, elixir-autogen, elixir-format
 msgid "Transaction Details"
-msgstr ""
+msgstr "トランザクションの詳細"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:384
 #, elixir-autogen, elixir-format
 msgid "Transaction Fee"
-msgstr ""
+msgstr "取引手数料"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:80
 #, elixir-autogen, elixir-format
 msgid "Transaction Hash"
-msgstr ""
+msgstr "トランザクションハッシュ"
 
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:2
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:19
 #, elixir-autogen, elixir-format
 msgid "Transaction Inputs"
-msgstr ""
+msgstr "トランザクション入力"
 
 #: lib/block_scout_web/templates/account/common/_nav.html.eex:13
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:7
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:17
 #, elixir-autogen, elixir-format
 msgid "Transaction Tags"
-msgstr ""
+msgstr "トランザクションタグ"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:408
 #, elixir-autogen, elixir-format
 msgid "Transaction Type"
-msgstr ""
+msgstr "トランザクションタイプ"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:514
 #, elixir-autogen, elixir-format
@@ -3038,17 +3038,17 @@ msgstr ""
 #: lib/block_scout_web/views/address_view.ex:375
 #, elixir-autogen, elixir-format
 msgid "Transactions"
-msgstr ""
+msgstr "トランザクション"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:101
 #, elixir-autogen, elixir-format
 msgid "Transactions and address of creation."
-msgstr ""
+msgstr "取引と作成のアドレス。"
 
 #: lib/block_scout_web/templates/address/_tile.html.eex:31
 #, elixir-autogen, elixir-format
 msgid "Transactions sent"
-msgstr ""
+msgstr "送信されたトランザクション"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:213
 #: lib/block_scout_web/templates/address/overview.html.eex:219
@@ -3057,13 +3057,13 @@ msgstr ""
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:119
 #, elixir-autogen, elixir-format
 msgid "Transfers"
-msgstr ""
+msgstr "転送"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:40
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:47
 #, elixir-autogen, elixir-format
 msgid "Try it out"
-msgstr ""
+msgstr "やってみて"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_fetch_constructor_args.html.eex:3
 #, elixir-autogen, elixir-format
@@ -3073,59 +3073,59 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:27
 #, elixir-autogen, elixir-format
 msgid "Twitter"
-msgstr ""
+msgstr "ツイッター"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:62
 #, elixir-autogen, elixir-format
 msgid "Tx/day"
-msgstr ""
+msgstr "TX/日"
 
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:60
 #, elixir-autogen, elixir-format
 msgid "Txns"
-msgstr ""
+msgstr "Txns"
 
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:5
 #: lib/block_scout_web/templates/transaction/_decoded_input_body.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Type"
-msgstr ""
+msgstr "タイプ"
 
 #: lib/block_scout_web/templates/tokens/overview/_details.html.eex:141
 #, elixir-autogen, elixir-format
 msgid "Type of the token standard"
-msgstr ""
+msgstr "トークン標準のタイプ"
 
 #: lib/block_scout_web/templates/visualize_sol2uml/index.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "UML diagram"
-msgstr ""
+msgstr "UML図"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:540
 #, elixir-autogen, elixir-format
 msgid "UTF-8"
-msgstr ""
+msgstr "UTF-8"
 
 #: lib/block_scout_web/views/block_view.ex:77
 #, elixir-autogen, elixir-format
 msgid "Uncle Reward"
-msgstr ""
+msgstr "おじさんの報酬"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:250
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Uncles"
-msgstr ""
+msgstr "叔父"
 
 #: lib/block_scout_web/views/transaction_view.ex:361
 #, elixir-autogen, elixir-format
 msgid "Unconfirmed"
-msgstr ""
+msgstr "未確認"
 
 #: lib/block_scout_web/templates/tokens/inventory/_token.html.eex:9
 #, elixir-autogen, elixir-format
 msgid "Unique Token"
-msgstr ""
+msgstr "ユニークなトークン"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:79
 #, elixir-autogen, elixir-format
@@ -3136,7 +3136,7 @@ msgstr ""
 #: lib/block_scout_web/templates/account/custom_abi/form.html.eex:8
 #, elixir-autogen, elixir-format
 msgid "Update"
-msgstr ""
+msgstr "アップデート"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:437
 #, elixir-autogen, elixir-format
@@ -3156,32 +3156,32 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:56
 #, elixir-autogen, elixir-format
 msgid "Validated"
-msgstr ""
+msgstr "検証"
 
 #: lib/block_scout_web/templates/transaction/index.html.eex:12
 #, elixir-autogen, elixir-format
 msgid "Validated Transactions"
-msgstr ""
+msgstr "検証されたトランザクション"
 
 #: lib/block_scout_web/templates/address/_validator_metadata_modal.html.eex:30
 #, elixir-autogen, elixir-format
 msgid "Validator Creation Date"
-msgstr ""
+msgstr "バリデーターの作成日"
 
 #: lib/block_scout_web/templates/address/_validator_metadata_modal.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Validator Data"
-msgstr ""
+msgstr "バリデーターデータ"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:86
 #, elixir-autogen, elixir-format
 msgid "Validator Name"
-msgstr ""
+msgstr "バリデーター名"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:369
 #, elixir-autogen, elixir-format
 msgid "Value"
-msgstr ""
+msgstr "価値"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:368
 #, elixir-autogen, elixir-format
@@ -3193,33 +3193,33 @@ msgstr ""
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:75
 #, elixir-autogen, elixir-format
 msgid "Verified"
-msgstr ""
+msgstr "検証"
 
 #: lib/block_scout_web/templates/verified_contracts/_stats.html.eex:18
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:6
 #, elixir-autogen, elixir-format
 msgid "Verified Contracts"
-msgstr ""
+msgstr "確認済み契約"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:89
 #, elixir-autogen, elixir-format
 msgid "Verified at"
-msgstr ""
+msgstr "で確認されました"
 
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:69
 #, elixir-autogen, elixir-format
 msgid "Verified contracts"
-msgstr ""
+msgstr "確認済み契約"
 
 #: lib/block_scout_web/templates/verified_contracts/_metatags.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "Verified contracts - %{subnetwork} Explorer"
-msgstr ""
+msgstr "確認済み契約 - %{subnetwork}エクスプローラー"
 
 #: lib/block_scout_web/templates/verified_contracts/_metatags.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Verified contracts, %{subnetwork}, %{coin}"
-msgstr ""
+msgstr "検証済みの契約、%{subnetwork}、%{coin}"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:28
 #: lib/block_scout_web/templates/address_contract/index.html.eex:30
@@ -3228,7 +3228,7 @@ msgstr ""
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Verify & Publish"
-msgstr ""
+msgstr "検証と公開"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:111
 #: lib/block_scout_web/templates/address_contract_verification_via_json/new.html.eex:37
@@ -3237,20 +3237,20 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_vyper/new.html.eex:47
 #, elixir-autogen, elixir-format
 msgid "Verify & publish"
-msgstr ""
+msgstr "検証と公開"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:10
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:12
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "Verify the contract "
-msgstr ""
+msgstr "契約を確認します"
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:93
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:66
 #, elixir-autogen, elixir-format
 msgid "Version"
-msgstr ""
+msgstr "バージョン"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:33
 #, elixir-autogen, elixir-format
@@ -3260,105 +3260,105 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:27
 #, elixir-autogen, elixir-format
 msgid "Via Standard Input JSON"
-msgstr ""
+msgstr "標準入力JSON経由"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Via flattened source code"
-msgstr ""
+msgstr "フラット化されたソースコードを介して"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Via multi-part files"
-msgstr ""
+msgstr "マルチパートファイルを介して"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:140
 #, elixir-autogen, elixir-format
 msgid "View All Blocks"
-msgstr ""
+msgstr "すべてのブロックを表示します"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:200
 #, elixir-autogen, elixir-format
 msgid "View All Transactions"
-msgstr ""
+msgstr "すべてのトランザクションを表示します"
 
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:16
 #: lib/block_scout_web/templates/tokens/instance/overview/_details.html.eex:20
 #, elixir-autogen, elixir-format
 msgid "View Contract"
-msgstr ""
+msgstr "契約を表示します"
 
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:73
 #, elixir-autogen, elixir-format
 msgid "View Less Transfers"
-msgstr ""
+msgstr "より少ない転送を表示します"
 
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:72
 #, elixir-autogen, elixir-format
 msgid "View More Transfers"
-msgstr ""
+msgstr "より多くの転送を表示します"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:39
 #, elixir-autogen, elixir-format
 msgid "View next block"
-msgstr ""
+msgstr "次のブロックを表示します"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:23
 #, elixir-autogen, elixir-format
 msgid "View previous block"
-msgstr ""
+msgstr "前のブロックを表示します"
 
 #: lib/block_scout_web/templates/address/_metatags.html.eex:9
 #, elixir-autogen, elixir-format
 msgid "View the account balance, transactions, and other data for %{address} on the %{network}"
-msgstr ""
+msgstr "%{ネットワーク}で%{アドレス}のアカウント残高、トランザクション、およびその他のデータを表示"
 
 #: lib/block_scout_web/templates/withdrawal/_metatags.html.eex:8
 #, elixir-autogen, elixir-format
 msgid "View the beacon chain withdrawals on %{subnetwork}"
-msgstr ""
+msgstr "%{subnetwork}でビーコンチェーンの引き出しを見る"
 
 #: lib/block_scout_web/templates/block/_metatags.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "View the transactions, token transfers, and uncles for block number %{block_number}"
-msgstr ""
+msgstr "ブロック番号%{block_number}のトランザクション、トークン転送、および叔父を見る"
 
 #: lib/block_scout_web/templates/verified_contracts/_metatags.html.eex:8
 #, elixir-autogen, elixir-format
 msgid "View the verified contracts on %{subnetwork}"
-msgstr ""
+msgstr "%{subnetwork}で検証済みの契約を表示"
 
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "View transaction %{transaction} on %{subnetwork}"
-msgstr ""
+msgstr "トランザクション%{transaction} on%{subnetwork}を表示"
 
 #: lib/block_scout_web/templates/verified_contracts/_contract.html.eex:28
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:32
 #: lib/block_scout_web/views/verified_contracts_view.ex:11
 #, elixir-autogen, elixir-format
 msgid "Vyper"
-msgstr ""
+msgstr "Vyper"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:46
 #, elixir-autogen, elixir-format
 msgid "Vyper contract"
-msgstr ""
+msgstr "Vyper契約"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:142
 #, elixir-autogen, elixir-format
 msgid "WEI"
-msgstr ""
+msgstr "WEI"
 
 #: lib/block_scout_web/templates/smart_contract/_pending_contract_write.html.eex:9
 #, elixir-autogen, elixir-format
 msgid "Waiting for transaction's confirmation..."
-msgstr ""
+msgstr "トランザクションの確認を待っています..."
 
 #: lib/block_scout_web/templates/chain/show.html.eex:126
 #, elixir-autogen, elixir-format
 msgid "Wallet addresses"
-msgstr ""
+msgstr "ウォレットアドレス"
 
 #: lib/block_scout_web/templates/common_components/_changed_bytecode_warning.html.eex:3
 #, elixir-autogen, elixir-format
@@ -3370,7 +3370,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_account_menu_item.html.eex:15
 #, elixir-autogen, elixir-format
 msgid "Watch list"
-msgstr ""
+msgstr "ウォッチリスト"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:77
 #, elixir-autogen, elixir-format
@@ -3380,7 +3380,7 @@ msgstr ""
 #: lib/block_scout_web/views/wei_helper.ex:76
 #, elixir-autogen, elixir-format
 msgid "Wei"
-msgstr ""
+msgstr "Wei"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:29
 #: lib/block_scout_web/templates/address_withdrawal/index.html.eex:13
@@ -3389,26 +3389,26 @@ msgstr ""
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Withdrawals"
-msgstr ""
+msgstr "引き出し"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:106
 #, elixir-autogen, elixir-format
 msgid "Write"
-msgstr ""
+msgstr "書く"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:103
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:34
 #: lib/block_scout_web/views/address_view.ex:381
 #, elixir-autogen, elixir-format
 msgid "Write Contract"
-msgstr ""
+msgstr "契約書を書く"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:110
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:48
 #: lib/block_scout_web/views/address_view.ex:382
 #, elixir-autogen, elixir-format
 msgid "Write Proxy"
-msgstr ""
+msgstr "プロキシを書きます"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_fetch_constructor_args.html.eex:14
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_include_nightly_builds_field.html.eex:14
@@ -3417,7 +3417,7 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:43
 #, elixir-autogen, elixir-format
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #: lib/block_scout_web/templates/account/api_key/index.html.eex:18
 #, elixir-autogen, elixir-format
@@ -3452,12 +3452,12 @@ msgstr ""
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:15
 #, elixir-autogen, elixir-format
 msgid "Your name"
-msgstr ""
+msgstr "あなたの名前"
 
 #: lib/block_scout_web/templates/account/public_tags_request/form.html.eex:14
 #, elixir-autogen, elixir-format
 msgid "Your name*"
-msgstr ""
+msgstr "あなたの名前*"
 
 #: lib/block_scout_web/templates/error422/index.html.eex:8
 #, elixir-autogen, elixir-format
@@ -3467,12 +3467,12 @@ msgstr ""
 #: lib/block_scout_web/templates/address/overview.html.eex:111
 #, elixir-autogen, elixir-format
 msgid "at"
-msgstr ""
+msgstr "で"
 
 #: lib/block_scout_web/templates/address_token/overview.html.eex:52
 #, elixir-autogen, elixir-format
 msgid "balance of the address"
-msgstr ""
+msgstr "アドレスのバランス"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:457
 #, elixir-autogen, elixir-format
@@ -3487,17 +3487,17 @@ msgstr ""
 #: lib/block_scout_web/templates/address_contract/index.html.eex:28
 #, elixir-autogen, elixir-format
 msgid "button"
-msgstr ""
+msgstr "ボタン"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:276
 #, elixir-autogen, elixir-format
 msgid "created"
-msgstr ""
+msgstr "作成した"
 
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:12
 #, elixir-autogen, elixir-format
 msgid "custom RPC"
-msgstr ""
+msgstr "カスタムRPC"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:149
 #, elixir-autogen, elixir-format
@@ -3507,54 +3507,54 @@ msgstr ""
 #: lib/block_scout_web/templates/common_components/_rap_pagination_container.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "elements are displayed"
-msgstr ""
+msgstr "要素が表示されます"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:44
 #, elixir-autogen, elixir-format
 msgid "fallback"
-msgstr ""
+msgstr "後退する"
 
 #: lib/block_scout_web/views/address_contract_view.ex:25
 #, elixir-autogen, elixir-format
 msgid "false"
-msgstr ""
+msgstr "false"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:10
 #: lib/block_scout_web/templates/transaction/_decoded_input.html.eex:12
 #: lib/block_scout_web/templates/transaction_log/_logs.html.eex:10
 #, elixir-autogen, elixir-format
 msgid "here"
-msgstr ""
+msgstr "ここ"
 
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:9
 #, elixir-autogen, elixir-format
 msgid "here."
-msgstr ""
+msgstr "ここ。"
 
 #: lib/block_scout_web/templates/smart_contract/_function_response.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "method Response"
-msgstr ""
+msgstr "メソッド応答"
 
 #: lib/block_scout_web/templates/common_components/_pagination_container.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "of"
-msgstr ""
+msgstr "の"
 
 #: lib/block_scout_web/templates/layout/app.html.eex:106
 #, elixir-autogen, elixir-format
 msgid "on sign up. Didn’t receive?"
-msgstr ""
+msgstr "サインアップ時。受け取りませんでしたか？"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:16
 #, elixir-autogen, elixir-format
 msgid "page"
-msgstr ""
+msgstr "ページ"
 
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:46
 #, elixir-autogen, elixir-format
 msgid "receive"
-msgstr ""
+msgstr "受け取る"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:58
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:69
@@ -3562,23 +3562,23 @@ msgstr ""
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:70
 #, elixir-autogen, elixir-format
 msgid "required"
-msgstr ""
+msgstr "必要"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:59
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:70
 #, elixir-autogen, elixir-format
 msgid "string"
-msgstr ""
+msgstr "弦"
 
 #: lib/block_scout_web/views/address_contract_view.ex:24
 #, elixir-autogen, elixir-format
 msgid "true"
-msgstr ""
+msgstr "true"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:77
 #, elixir-autogen, elixir-format
 msgid "truffle flattener"
-msgstr ""
+msgstr "truffle flattener"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:471
 #, elixir-autogen, elixir-format
@@ -3593,40 +3593,40 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:204
 #, elixir-autogen, elixir-format, fuzzy
 msgid "L1 Block"
-msgstr ""
+msgstr "L1ブロック"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:504
 #: lib/block_scout_web/templates/transaction/overview.html.eex:505
 #, elixir-autogen, elixir-format
 msgid "L1 Fee Scalar"
-msgstr ""
+msgstr "L1料金スカラー"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:493
 #: lib/block_scout_web/templates/transaction/overview.html.eex:494
 #, elixir-autogen, elixir-format, fuzzy
 msgid "L1 Gas Price"
-msgstr ""
+msgstr "L1ガス価格"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:482
 #: lib/block_scout_web/templates/transaction/overview.html.eex:483
 #, elixir-autogen, elixir-format
 msgid "L1 Gas Used by Transaction"
-msgstr ""
+msgstr "トランザクションで使用されるL1ガス"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:419
 #, elixir-autogen, elixir-format, fuzzy
 msgid "L2 Gas Limit"
-msgstr ""
+msgstr "L2ガス制限"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:399
 #, elixir-autogen, elixir-format, fuzzy
 msgid "L2 Gas Price"
-msgstr ""
+msgstr "L2ガス価格"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:472
 #, elixir-autogen, elixir-format
 msgid "L2 Gas Used by Transaction"
-msgstr ""
+msgstr "トランザクションで使用されるL2ガス"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:418
 #, elixir-autogen, elixir-format
@@ -3643,24 +3643,24 @@ msgstr ""
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:38
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Amount"
-msgstr ""
+msgstr "額"
 
 #: lib/block_scout_web/templates/withdrawal/_metatags.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "Beacon chain withdrawals - %{subnetwork} Explorer"
-msgstr ""
+msgstr "ビーコンチェーンの引き出し - %{subnetwork}エクスプローラー"
 
 #: lib/block_scout_web/templates/withdrawal/_metatags.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "Beacon chain, Withdrawals, %{subnetwork}, %{coin}"
-msgstr ""
+msgstr "ビーコンチェーン、引き出し、%{subnetwork}、%{coin}"
 
 #: lib/block_scout_web/templates/address_withdrawal/index.html.eex:29
 #: lib/block_scout_web/templates/block_withdrawal/index.html.eex:23
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:23
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Index"
-msgstr ""
+msgstr "索引"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_standard_json_input/new.html.eex:9
 #, elixir-autogen, elixir-format, fuzzy
@@ -3675,36 +3675,36 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:31
 #, elixir-autogen, elixir-format
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:225
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Transaction Action"
-msgstr ""
+msgstr "トランザクションアクション"
 
 #: lib/block_scout_web/templates/address_withdrawal/index.html.eex:32
 #: lib/block_scout_web/templates/block_withdrawal/index.html.eex:26
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:26
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Validator index"
-msgstr ""
+msgstr "バリデーターインデックス"
 
 #: lib/block_scout_web/templates/withdrawal/index.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "%{withdrawals_count} withdrawals processed and %{withdrawals_sum} withdrawn."
-msgstr ""
+msgstr "%{extreelals_count}引き出し処理および%{extreelals_sum}撤回。"
 
 #: lib/block_scout_web/templates/csv_export/index.html.eex:14
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Export"
-msgstr ""
+msgstr "輸出"
 
 #: lib/block_scout_web/templates/csv_export/index.html.eex:14
 #, elixir-autogen, elixir-format, fuzzy
 msgid "for address"
-msgstr ""
+msgstr "アドレス用"
 
 #: lib/block_scout_web/templates/csv_export/index.html.eex:17
 #, elixir-autogen, elixir-format
 msgid "to CSV file"
-msgstr ""
+msgstr "CSVファイルへ"

@@ -24,6 +24,13 @@ $header-logo-text-color: #333 !default;
     font-size: 14px;
   }
 
+  h2{
+    color: #000;
+    font-weight: 900;
+    margin-bottom: 0;
+    font-size: 30px;
+  }
+
   .navbar-nav {
 
     .nav-submenu {
@@ -31,7 +38,7 @@ $header-logo-text-color: #333 !default;
       color: $header-links-color;
       background-color: $header-links-background-color;
     }
-    
+
     .nav-link {
       outline: none;
       align-items: center;

@@ -105,7 +105,6 @@
       <main class="js-ad-dependant-pt pt-5">
         <%= @inner_content %>
       </main>
-      <%= render BlockScoutWeb.LayoutView, "_footer.html", assigns %>
     </div>
     <%= if (
       @view_module != Elixir.BlockScoutWeb.ChainView &&
